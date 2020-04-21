@@ -20,6 +20,6 @@ cd RED_BACKED-FB-BruteForce
 
 ls
 
-chmod +x fb.py
+chmod +x fb01.py
 
-python3 fb.py
+python3 fb01.py
